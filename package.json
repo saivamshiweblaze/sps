@@ -1,0 +1,17 @@
+{
+  "name": "sps-engineering-solutions-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Redesigned website for SPS Engineering Solutions, Hyderabad (static, zero runtime dependencies).",
+  "type": "module",
+  "scripts": {
+    "images": "node tools/rasterize-svg.mjs && python tools/optimize-images.py",
+    "build": "node src/build.mjs",
+    "serve": "node src/serve.mjs",
+    "start": "node src/build.mjs && node src/serve.mjs",
+    "qa": "node tests/qa.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

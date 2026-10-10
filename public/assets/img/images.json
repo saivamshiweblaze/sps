@@ -1,0 +1,612 @@
+{
+ "brand/sps-logo": {
+  "alpha": true,
+  "fallback": "brand/sps-logo.png",
+  "height": 94,
+  "source": "logo.png",
+  "width": 248,
+  "widths": [
+   248
+  ]
+ },
+ "customers/c01": {
+  "alpha": true,
+  "fallback": "customers/c01.png",
+  "height": 128,
+  "source": "1-n.png",
+  "width": 200,
+  "widths": [
+   200
+  ]
+ },
+ "customers/c02": {
+  "alpha": false,
+  "fallback": "customers/c02.png",
+  "height": 126,
+  "source": "2-n.png",
+  "width": 359,
+  "widths": [
+   359
+  ]
+ },
+ "customers/c03": {
+  "alpha": false,
+  "fallback": "customers/c03.png",
+  "height": 30,
+  "source": "3-n.png",
+  "width": 146,
+  "widths": [
+   146
+  ]
+ },
+ "customers/c04": {
+  "alpha": true,
+  "fallback": "customers/c04.png",
+  "height": 69,
+  "source": "4-n.png",
+  "width": 165,
+  "widths": [
+   165
+  ]
+ },
+ "customers/c05": {
+  "alpha": true,
+  "fallback": "customers/c05.png",
+  "height": 36,
+  "source": "5-n.png",
+  "width": 143,
+  "widths": [
+   143
+  ]
+ },
+ "customers/c07": {
+  "alpha": true,
+  "fallback": "customers/c07.png",
+  "height": 160,
+  "source": "7-n.png",
+  "width": 449,
+  "widths": [
+   449
+  ]
+ },
+ "customers/c08": {
+  "alpha": true,
+  "fallback": "customers/c08.png",
+  "height": 160,
+  "source": "8-n.png",
+  "width": 434,
+  "widths": [
+   434
+  ]
+ },
+ "customers/c09": {
+  "alpha": true,
+  "fallback": "customers/c09.png",
+  "height": 108,
+  "source": "9-n.png",
+  "width": 373,
+  "widths": [
+   373
+  ]
+ },
+ "customers/c10": {
+  "alpha": true,
+  "fallback": "customers/c10.png",
+  "height": 67,
+  "source": "10-n.png",
+  "width": 399,
+  "widths": [
+   399
+  ]
+ },
+ "customers/c11": {
+  "alpha": true,
+  "fallback": "customers/c11.png",
+  "height": 61,
+  "source": "11-n.png",
+  "width": 90,
+  "widths": [
+   90
+  ]
+ },
+ "customers/c12": {
+  "alpha": true,
+  "fallback": "customers/c12.png",
+  "height": 50,
+  "source": "12-n.png",
+  "width": 214,
+  "widths": [
+   214
+  ]
+ },
+ "customers/c13": {
+  "alpha": true,
+  "fallback": "customers/c13.png",
+  "height": 160,
+  "source": "13.png",
+  "width": 532,
+  "widths": [
+   532
+  ]
+ },
+ "customers/c14": {
+  "alpha": true,
+  "fallback": "customers/c14.png",
+  "height": 47,
+  "source": "14.gif",
+  "width": 510,
+  "widths": [
+   510
+  ]
+ },
+ "customers/c15": {
+  "alpha": true,
+  "fallback": "customers/c15.png",
+  "height": 160,
+  "source": "source-original/derived/15-static-frame.png",
+  "width": 426,
+  "widths": [
+   426
+  ]
+ },
+ "customers/c16": {
+  "alpha": false,
+  "fallback": "customers/c16.png",
+  "height": 30,
+  "source": "16.gif",
+  "width": 139,
+  "widths": [
+   139
+  ]
+ },
+ "equipment/eq-1": {
+  "alpha": true,
+  "fallback": "equipment/eq-1.png",
+  "height": 178,
+  "source": "1.png",
+  "width": 180,
+  "widths": [
+   180
+  ]
+ },
+ "equipment/eq-2": {
+  "alpha": true,
+  "fallback": "equipment/eq-2.png",
+  "height": 418,
+  "source": "2.png",
+  "width": 422,
+  "widths": [
+   422
+  ]
+ },
+ "equipment/eq-3": {
+  "alpha": false,
+  "fallback": "equipment/eq-3.jpg",
+  "height": 867,
+  "source": "3.jpg",
+  "width": 1156,
+  "widths": [
+   600,
+   1156
+  ]
+ },
+ "equipment/eq-4": {
+  "alpha": false,
+  "fallback": "equipment/eq-4.png",
+  "height": 100,
+  "source": "4.png",
+  "width": 150,
+  "widths": [
+   150
+  ]
+ },
+ "equipment/eq-5": {
+  "alpha": true,
+  "fallback": "equipment/eq-5.png",
+  "height": 283,
+  "source": "5.png",
+  "width": 283,
+  "widths": [
+   283
+  ]
+ },
+ "equipment/eq-6": {
+  "alpha": true,
+  "fallback": "equipment/eq-6.png",
+  "height": 225,
+  "source": "6.png",
+  "width": 225,
+  "widths": [
+   225
+  ]
+ },
+ "gallery/kit-01": {
+  "alpha": true,
+  "fallback": "gallery/kit-01.png",
+  "height": 258,
+  "source": "source-original/live-assets/assets/services/s1/1.png",
+  "width": 509,
+  "widths": [
+   509
+  ]
+ },
+ "gallery/kit-02": {
+  "alpha": true,
+  "fallback": "gallery/kit-02.png",
+  "height": 199,
+  "source": "source-original/live-assets/assets/services/s1/2.png",
+  "width": 517,
+  "widths": [
+   517
+  ]
+ },
+ "gallery/kit-03": {
+  "alpha": true,
+  "fallback": "gallery/kit-03.png",
+  "height": 200,
+  "source": "source-original/live-assets/assets/services/s1/3.png",
+  "width": 386,
+  "widths": [
+   386
+  ]
+ },
+ "gallery/kit-04": {
+  "alpha": true,
+  "fallback": "gallery/kit-04.png",
+  "height": 158,
+  "source": "source-original/live-assets/assets/services/s1/4.png",
+  "width": 233,
+  "widths": [
+   233
+  ]
+ },
+ "gallery/kit-05": {
+  "alpha": true,
+  "fallback": "gallery/kit-05.png",
+  "height": 206,
+  "source": "source-original/live-assets/assets/services/s1/5.png",
+  "width": 364,
+  "widths": [
+   364
+  ]
+ },
+ "gallery/kit-06": {
+  "alpha": true,
+  "fallback": "gallery/kit-06.png",
+  "height": 177,
+  "source": "source-original/live-assets/assets/services/s1/6.png",
+  "width": 602,
+  "widths": [
+   602
+  ]
+ },
+ "gallery/kit-07": {
+  "alpha": true,
+  "fallback": "gallery/kit-07.png",
+  "height": 197,
+  "source": "source-original/live-assets/assets/services/s1/7.png",
+  "width": 602,
+  "widths": [
+   602
+  ]
+ },
+ "gallery/kit-08": {
+  "alpha": false,
+  "fallback": "gallery/kit-08.png",
+  "height": 204,
+  "source": "source-original/live-assets/assets/services/s1/8.png",
+  "width": 570,
+  "widths": [
+   570
+  ]
+ },
+ "gallery/kit-09": {
+  "alpha": true,
+  "fallback": "gallery/kit-09.png",
+  "height": 183,
+  "source": "source-original/live-assets/assets/services/s1/9.png",
+  "width": 538,
+  "widths": [
+   538
+  ]
+ },
+ "gallery/kit-10": {
+  "alpha": true,
+  "fallback": "gallery/kit-10.png",
+  "height": 198,
+  "source": "source-original/live-assets/assets/services/s1/10.png",
+  "width": 561,
+  "widths": [
+   561
+  ]
+ },
+ "icons/breaker": {
+  "alpha": true,
+  "fallback": "icons/breaker.png",
+  "height": 512,
+  "source": "breaker.png",
+  "width": 512,
+  "widths": [
+   160
+  ]
+ },
+ "icons/relay": {
+  "alpha": true,
+  "fallback": "icons/relay.png",
+  "height": 512,
+  "source": "relay.png",
+  "width": 512,
+  "widths": [
+   160
+  ]
+ },
+ "icons/transformer": {
+  "alpha": true,
+  "fallback": "icons/transformer.png",
+  "height": 512,
+  "source": "energy.png",
+  "width": 512,
+  "widths": [
+   160
+  ]
+ },
+ "photo/panel-multimeter": {
+  "alpha": false,
+  "fallback": "photo/panel-multimeter.jpg",
+  "height": 720,
+  "source": "source-original/live-assets/assets/top-services/relay.jpeg",
+  "width": 1280,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "photo/panel-technician": {
+  "alpha": false,
+  "fallback": "photo/panel-technician.jpg",
+  "height": 1020,
+  "source": "operator.jpg",
+  "width": 1332,
+  "widths": [
+   640,
+   1000,
+   1332
+  ]
+ },
+ "photo/substation-yard": {
+  "alpha": false,
+  "fallback": "photo/substation-yard.jpg",
+  "height": 1280,
+  "source": "source-original/live-assets/assets/common/hero-bg.jpg",
+  "width": 1920,
+  "widths": [
+   800,
+   1280,
+   1920
+  ]
+ },
+ "photography/aerial-breaker-bay": {
+  "alpha": false,
+  "fallback": "photography/aerial-breaker-bay.jpg",
+  "height": 2880,
+  "source": "source-photography/aerial-breaker-bay.jpg",
+  "width": 3840,
+  "widths": [
+   640,
+   960,
+   1280,
+   1920
+  ]
+ },
+ "photography/gis-420kv": {
+  "alpha": false,
+  "fallback": "photography/gis-420kv.jpg",
+  "height": 1920,
+  "source": "source-photography/gis-420kv.jpg",
+  "width": 2560,
+  "widths": [
+   640,
+   960,
+   1280,
+   1920
+  ]
+ },
+ "photography/hv-circuit-breakers": {
+  "alpha": false,
+  "fallback": "photography/hv-circuit-breakers.jpg",
+  "height": 2824,
+  "source": "source-photography/hv-circuit-breakers.jpg",
+  "width": 3840,
+  "widths": [
+   640,
+   960,
+   1280,
+   1920
+  ]
+ },
+ "photography/power-transformer-yard": {
+  "alpha": false,
+  "fallback": "photography/power-transformer-yard.jpg",
+  "height": 2880,
+  "source": "source-photography/power-transformer-yard.jpg",
+  "width": 3840,
+  "widths": [
+   640,
+   960,
+   1280,
+   1920
+  ]
+ },
+ "photography/relay-panels": {
+  "alpha": false,
+  "fallback": "photography/relay-panels.jpg",
+  "height": 1728,
+  "source": "source-photography/relay-panels.jpg",
+  "width": 2592,
+  "widths": [
+   640,
+   960,
+   1280,
+   1920
+  ]
+ },
+ "photography/scada-control-room": {
+  "alpha": false,
+  "fallback": "photography/scada-control-room.jpg",
+  "height": 2848,
+  "source": "source-photography/scada-control-room.jpg",
+  "width": 3798,
+  "widths": [
+   640,
+   960,
+   1280,
+   1920
+  ]
+ },
+ "photography/switchyard-gantries": {
+  "alpha": false,
+  "fallback": "photography/switchyard-gantries.jpg",
+  "height": 2736,
+  "source": "source-photography/switchyard-gantries.jpg",
+  "width": 3648,
+  "widths": [
+   640,
+   960,
+   1280,
+   1920
+  ]
+ },
+ "photography/transmission-sunset": {
+  "alpha": false,
+  "fallback": "photography/transmission-sunset.jpg",
+  "height": 2560,
+  "source": "source-photography/transmission-sunset.jpg",
+  "width": 3840,
+  "widths": [
+   640,
+   960,
+   1280,
+   1920
+  ]
+ },
+ "services/energy-meter": {
+  "alpha": false,
+  "fallback": "services/energy-meter.jpg",
+  "height": 449,
+  "source": "source-original/live-assets/assets/services/10.jpg",
+  "width": 573,
+  "widths": [
+   573
+  ]
+ },
+ "services/engineering-drawings": {
+  "alpha": true,
+  "fallback": "services/engineering-drawings.png",
+  "height": 238,
+  "source": "source-original/live-assets/assets/services/9.png",
+  "width": 361,
+  "widths": [
+   361
+  ]
+ },
+ "services/numerical-relays": {
+  "alpha": false,
+  "fallback": "services/numerical-relays.png",
+  "height": 362,
+  "source": "source-original/live-assets/assets/services/2.png",
+  "width": 477,
+  "widths": [
+   477
+  ]
+ },
+ "services/power-transformer": {
+  "alpha": true,
+  "fallback": "services/power-transformer.png",
+  "height": 433,
+  "source": "source-original/live-assets/assets/services/7.png",
+  "width": 577,
+  "widths": [
+   577
+  ]
+ },
+ "services/relay-commissioning": {
+  "alpha": false,
+  "fallback": "services/relay-commissioning.jpg",
+  "height": 376,
+  "source": "source-original/live-assets/assets/services/1.jpg",
+  "width": 520,
+  "widths": [
+   520
+  ]
+ },
+ "services/retrofit-before-after": {
+  "alpha": false,
+  "fallback": "services/retrofit-before-after.jpg",
+  "height": 441,
+  "source": "source-original/live-assets/assets/services/5.png",
+  "width": 800,
+  "widths": [
+   800
+  ]
+ },
+ "services/sas-control-room": {
+  "alpha": false,
+  "fallback": "services/sas-control-room.jpg",
+  "height": 187,
+  "source": "source-original/live-assets/assets/services/6-1.png",
+  "width": 270,
+  "widths": [
+   270
+  ]
+ },
+ "services/sas-engineer": {
+  "alpha": false,
+  "fallback": "services/sas-engineer.jpg",
+  "height": 462,
+  "source": "source-original/live-assets/assets/services/6-3.jpg",
+  "width": 424,
+  "widths": [
+   424
+  ]
+ },
+ "services/sas-operator": {
+  "alpha": false,
+  "fallback": "services/sas-operator.jpg",
+  "height": 182,
+  "source": "source-original/live-assets/assets/services/6-2.png",
+  "width": 277,
+  "widths": [
+   277
+  ]
+ },
+ "services/test-set-rental": {
+  "alpha": false,
+  "fallback": "services/test-set-rental.png",
+  "height": 247,
+  "source": "source-original/live-assets/assets/services/14.png",
+  "width": 548,
+  "widths": [
+   548
+  ]
+ },
+ "services/thermal-camera": {
+  "alpha": false,
+  "fallback": "services/thermal-camera.jpg",
+  "height": 665,
+  "source": "source-original/live-assets/assets/services/13.jpeg",
+  "width": 800,
+  "widths": [
+   800
+  ]
+ },
+ "services/training-session": {
+  "alpha": false,
+  "fallback": "services/training-session.jpg",
+  "height": 321,
+  "source": "source-original/live-assets/assets/services/12.png",
+  "width": 565,
+  "widths": [
+   565
+  ]
+ }
+}

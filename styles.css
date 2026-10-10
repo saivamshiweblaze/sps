@@ -1,0 +1,373 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+:root{
+    --orange-primary: #FF5F00;
+    --grey-sh-1: #333;
+    --white--1: #f4f4f4;
+}
+
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+   line-height: 1.8;
+   color: #333;
+   font-size: 15px;
+   font-family: 'Lato', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+
+.title-sm {
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+a {
+    font-weight: 700;
+    transition: all 0.4s ease;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+}
+
+section {
+   padding: 64px 0;
+}
+
+ .navbar {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+ }
+
+ .hline {
+    width: 70px;
+    height: 2px;
+    margin: 16px auto;
+    background-color: rgba(255, 255, 255, 0.445);
+ }
+ 
+
+/* Navbar */
+.navbar{
+    background-color: #fff !important;
+}
+
+.navbar-brand img{
+    width: 9.6rem;
+    padding: 0.2rem 0;
+    background-color: #fff;
+    border-radius: 6px;
+}
+
+.navbar .nav-link {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+ }
+ 
+ .navbar-light .navbar-nav .nav-link.active {
+    color: var(--orange-primary) !important;
+ }
+
+ .nav-item{
+    padding-left: 12px;
+ }
+
+
+#home {
+    background: linear-gradient(to right bottom, rgba(30, 28, 28, 0.9), rgba(30, 28, 28, 0.9)), url(../assets/common/hero-bg.jpg);
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+ }
+ 
+ #home h1 {
+    font-weight: 500;
+    text-transform: capitalize;
+ }
+
+ #home h4{
+    font-weight: 300 !important;
+    line-height: 1.8;
+    text-transform: none;
+ }
+ 
+ 
+ .btn {
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding: 12px 28px;
+    border-radius: 0;
+ }
+ 
+ .btn-brand:link,
+ .btn-brand:visited{
+     text-decoration: none;
+     padding: 12px 48px;
+     font-size: 18px;
+     border: 1px solid #333;
+     color: #fff;
+     display: inline-block;
+     border-radius: 6px;
+     background-color: var(--orange-primary);
+     transition: all 0.2s;
+     font-weight: 300;
+ }
+ 
+ .btn-brand:hover,
+ .btn-brand:active{
+     background-color: transparent;
+     border: 1px solid var(--orange-primary);
+     color: var(--orange-primary);
+     transform: scale(0.9);
+ }
+
+
+.cta-secondary:link,
+.cta-secondary:visited{
+    text-decoration: none;
+    padding: 8px 12px;
+    font-size: 1;
+    color: #FF5F00;
+    display: inline-block;
+    transition: all 0.2s;
+    font-weight: 400;
+    border-bottom: 1px solid #FF5F00;
+    transition: all ease 0.3s;
+}
+
+.cta-secondary:hover,
+.cta-secondary:active{
+    color: #fff !important;
+    background-color: #FF5F00;
+}
+
+
+.color-primary{
+    color: var(--orange-primary) !important;
+}
+
+.primary-text{
+    font-style: italic;
+}
+
+/* Mission */
+.icon-box {
+    width: 48px;
+    height: 64px;
+    color: var(--orange-primary);
+    border-radius: 4px;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    flex: none;
+}
+
+
+/* Top-Services */
+#top-services{
+    padding: 64px;
+    background-size: cover;
+    background-image: linear-gradient(to right bottom, rgba(30, 28, 28, 0.9), rgba(30, 28, 28, 0.9)) ,url(../assets/top-services/relay.jpeg);
+}
+
+#top-services img {
+    width: 120px;
+    display: block;
+    margin: auto;
+}
+
+#top-services h6{
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+/* Services */
+#services a,
+#services a:link,
+#services a:visited{
+    color: currentColor;
+    font-weight: 400;
+}
+#services .service-card{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-left: 4px solid var(--orange-primary);
+    height: 100%;
+}
+
+#services  .row{
+    row-gap: 28px;
+}
+
+#services .service-card{
+    padding: 10px;
+    transition: all ease 0.3s;
+    cursor: pointer;
+}
+
+#services .service-card:hover{
+    transform: scale(0.9);
+}
+
+/* equipment */
+#equipment{
+    background-color: #000;
+    color: #fff4f4;
+    letter-spacing: 0.2px;
+    font-weight: 300;
+}
+
+#equipment img{
+    display: block;
+    max-width: 50vw;
+    margin: 0 auto;
+}
+
+
+.bxs-bolt{
+    color: var(--orange-primary);
+    margin-right: 10px;
+}
+
+ /*Customers */ 
+ #customers img {
+    width: 120px;
+    display: block;
+    margin: 0 auto;
+ }
+
+ #customers .row{
+    row-gap: 2.4rem;
+ }
+
+ /* Footer */
+ footer{
+    background-color: #333;
+    color: #fff4f4dc;
+ }
+
+ footer img{
+    width: 160px;
+    padding: 6px;
+    background-color: #fff;
+    border-radius: 6px;
+ }
+
+ footer i{
+    color: var(--orange-primary);
+    margin-right: 10px;
+ }
+
+
+.footer-link:link,
+.footer-link:visited {
+    text-decoration: none;
+    color: var(--orange-primary);
+    font-weight: 300;
+    display: inline-block;
+    padding-bottom: 2px;
+    border-bottom: 0.2px solid currentColor;
+}
+
+.footer-links a:link,
+.footer-links a:visited{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 300;
+}
+
+.footer-bottom{
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+/* Services */
+.service h3{
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+
+.service:nth-child(even){
+    background-color: #000;
+    color: #fff4f4;
+}
+
+.service:nth-child(odd) h3{
+    color: var(--orange-primary);
+}
+
+.service:nth-child(even) .list-group-item {
+    background-color: transparent;
+    color: #fff4f4;
+    border-bottom: 1px solid rgb(221, 221, 221, 0.2);
+    font-weight: 300;
+}
+
+.gallery-img{
+    height: 140px;
+    width: auto;
+    max-width: 100%;
+}
+
+.service table{
+    font-weight: 300;
+}
+
+
+@media(max-width:480px){
+    section {
+        padding: 32px 0;
+    }
+    #home{
+        margin-top: 32px;
+    }
+}
+
+/* Animations */
+@keyframes moveText {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+
+.animated-text {
+    animation: moveText 1s ease-out ;
+}
+
+.animated-text-slow {
+    animation: moveText 2s ease-out;
+}
+
+.service-card{
+    --bs-gutter-x: 0;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 600;
+    color: #333;
+}
+
+.service-card-arrow{
+    color: #ff5f00;
+    font-size: xx-large;
+    display: flex;
+    font-weight: 400;
+    justify-content: center;
+}
